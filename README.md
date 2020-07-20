@@ -15,9 +15,9 @@ npm install
 ```
 - Setup Weather API And Run
 ```
-cd nodeWeatherApp/src #no need to run if already in this folder
+cd nodeWeatherApp/ #no need to run if already in this folder
 cp .env.example .env #change author weather forecast api
-node app.js
+npm start
 ```
 
 ## Todo
